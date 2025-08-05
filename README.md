@@ -44,12 +44,12 @@
 </p>
 
 ---
-
+<div style="background-color:white; padding: 10px;">
 ## 📫 Connect with Me
 
 [![Kushan Charuka](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kushan-charuka/)  
 [![charubim0530@gmailmail.com](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:charubim0530@gmailmail.com)
-
+</div>
 ---
 
 ⭐ **Thanks for visiting my profile!**  
