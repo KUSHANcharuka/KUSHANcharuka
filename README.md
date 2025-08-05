@@ -31,7 +31,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/kushan-charuka/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kushan-charuka/))  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:charubim0530@gmailmail.com)
 
 ---
