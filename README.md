@@ -7,6 +7,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Artificial Intelligence & Machine Learning basics  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Data structures and algorithms
 
+<p align="center">
+  <a href="https://github.com/ArunaKumarasiri">
+    <img src="https://readme-typing-svg.herokuapp.com?font=arial+black&color=F7E60AFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+there!+I'm+Kushan+Charuka+👋;CS+Undergraduate+at+Saegis+Campus;Learning+AI+%26+Web+Development;Passionate+about+Tech+%26+Problem+Solving;Always+exploring+new+technologies+🚀" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 Projects & Interests
