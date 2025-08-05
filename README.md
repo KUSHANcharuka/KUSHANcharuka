@@ -34,11 +34,21 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ---
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kushan-charuka/)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:charubim0530@gmailmail.com)
+[![Kushan Charuka](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kushan-charuka/)  
+[![charubim0530@gmailmail.com](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:charubim0530@gmailmail.com)
 
 ---
 
