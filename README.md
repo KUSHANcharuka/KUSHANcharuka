@@ -1,6 +1,6 @@
 # <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there, I'm Kushan Charuka
 
-🎓 **BSc (Hons) in Software Engineering Undergraduate** at Saegis Campus  
+🎓 **BSc (Hons) in Computer Science Undergraduate** at Saegis Campus  
 💡 I’m passionate about AI, web technologies, and building real-world software  
 🌱 Currently learning:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Full-stack development (React, Node.js, Express)  
